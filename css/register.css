@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(../img/zhuc.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 62.5%;
+}
+.registerBox{
+    width: 50%;
+    height: 500px;
+    background:rgba(0, 0, 0, 0.5);
+    margin: 100px 45%;
+    color: white;
+    
+}
+span{
+    
+    font-size: 2.5rem;
+    margin-left: 45%;
+}
+.name{
+    font-size: 1.5rem;
+    margin-left: 20%;
+    padding-top: 30px;
+}
+.check{
+    font-size: 1rem;
+    margin-left:35%;
+    padding-top: 30px;
+}
+.skip{
+    font-size: 1rem;
+    margin-left: 20px;
+}
+#reg{
+    width: 35%;
+    height: 30px;
+    margin: 30px 30%;
+    
+    
+}

@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 62.5;
+}
+td{
+	width: 47px;
+	height: 48px;	
+
+}
+table{
+	position: absolute;
+	left: 500px;
+	top: 0;
+}
+#map{
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	left: 500px;
+	background: pink;
+
+}
+#sroce{
+	color: red;
+	font-size: 1.5rem;
+}
+
